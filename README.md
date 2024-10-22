@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Cuntre
+- 👀 I’m interested in new mentory...
+- 🌱 I’m currently learning programation ...
+- 📫 How to reach me: ilidiojunior04@gmail.com or whatsapp: +258 846367776...
+
+<!---
+Cuntre/Cuntre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
